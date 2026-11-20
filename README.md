@@ -10,7 +10,6 @@ Data Scientist at Amazon in Seattle. I build machine learning models for ads ran
 - Stack: Python, SQL, PyTorch, PySpark, AWS SageMaker
 
 **Selected projects**
-- [spatiotemporal](https://github.com/manjitullal/spatiotemporal): Transformer Hawkes Process for predicting when and where the next event happens
 - [recommendation](https://github.com/manjitullal/recommendation): matrix factorization through neural collaborative filtering on MovieLens
 - [DE-GAN](https://github.com/manjitullal/DE-GAN): PyTorch reimplementation of a document-enhancement GAN (deblurring, cleaning degraded scans, watermark removal)
 - [Lung-Diseases-Detection](https://github.com/manjitullal/Lung-Diseases-Detection): 15-label chest X-ray classification with ResNet-101 and U-Net lung segmentation
